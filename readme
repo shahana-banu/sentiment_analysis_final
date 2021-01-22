@@ -1,0 +1,3 @@
+0.0.0.0:5000/video_feed?name=sing_demo4.mp4
+
+pip install flask==1.1.1
